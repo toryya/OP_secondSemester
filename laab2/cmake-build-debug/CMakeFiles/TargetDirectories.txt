@@ -1,3 +1,0 @@
-C:/Users/ASUS/LAB_OP/vesna/laab2/cmake-build-debug/CMakeFiles/laab2.dir
-C:/Users/ASUS/LAB_OP/vesna/laab2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/LAB_OP/vesna/laab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
