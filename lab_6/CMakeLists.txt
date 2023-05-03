@@ -3,4 +3,4 @@ project(lab_5)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(lab_5 main.cpp Algo.cpp Algo.h)
+add_executable(lab_5 main.cpp cmake-build-debug/Algorythm/Algo.cpp cmake-build-debug/Algorythm/Algo.h)

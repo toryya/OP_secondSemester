@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include "Algo.h"
+#include "cmake-build-debug/Algorythm/Algo.h"
 
 using namespace std;
 
