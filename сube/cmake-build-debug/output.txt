@@ -1,0 +1,56 @@
+Изначальное состояние кубика:
+
+		 | W W W | 
+		 | W W W | 
+		 | W W W | 
+
+ | O O O | G G G | R R R | B B B | 
+ | O O O | G G G | R R R | B B B | 
+ | O O O | G G G | R R R | B B B | 
+
+		 | Y Y Y | 
+		 | Y Y Y | 
+		 | Y Y Y | 
+
+
+
+Шаги разборки:
+
+R U R' U' D' R' D L U L U' L' L U L' U' U L U' L' D' R' D L U L U' L' D' R' D L L U L' U' L U L' U' D' R' D L D' R' D L 
+
+Состояние кубика после разборки:
+
+		 | Y W O | 
+		 | W W B | 
+		 | G W O | 
+
+ | R G O | Y O W | B R B | Y R B | 
+ | O O O | B G G | R R B | Y B Y | 
+ | G O R | W G G | W R G | R B W | 
+
+		 | B Y R | 
+		 | G Y Y | 
+		 | O W Y | 
+
+
+
+Шаги сборки для первого кубика:
+
+B' U' B U' F' L F B U' B' U U' L' B L R' U' R L' U' L R' U' R B' U' B U R U' R' U U R U R' U U B U' B' U U B U B' U' F' U F U R U' R' U U' L' U L U F U' F' U U' B' U B U L U' L' F U R U' R' F' R B U B' U' R' U L' U' U' L U L' U L U B' U' U' B U B' U B U L' U' U' L U L' U L U B' U' U' B U B' U B F' L' F R' F' L F R R F' R' F R F' R' F U U R F' R' F R F' R' F U U U U U R F' R' F R F' R' F U 
+
+Кубик после 7ми шагов сборки:
+
+	Кубик успешно собран
+
+		 | W W W | 
+		 | W W W | 
+		 | W W W | 
+
+ | O O O | G G G | R R R | B B B | 
+ | O O O | G G G | R R R | B B B | 
+ | O O O | G G G | R R R | B B B | 
+
+		 | Y Y Y | 
+		 | Y Y Y | 
+		 | Y Y Y | 
+
